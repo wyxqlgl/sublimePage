@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Align Arguments",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"ayu",
+		"Case Conversion",
+		"ChineseLocalizations",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"DocBlockr 2020 (DoxyDoxygen powered)",
+		"Hide Menu",
+		"Indent XML",
+		"Javap",
+		"Markdown Slideshow",
+		"MySQL Snippets",
+		"Package Control",
+		"Pretty JSON",
+		"Python 3",
+		"SQL (simple-db-migrate)",
+		"sql-formatter",
+		"SqlBeautifier",
+		"SQLPlus",
+		"SQLTools",
+		"Sqlx Builder",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"ThemeTweaker",
+		"WordHighlight"
+	]
+}

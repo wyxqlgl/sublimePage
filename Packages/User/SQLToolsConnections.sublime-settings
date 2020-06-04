@@ -1,0 +1,15 @@
+// List all your connections to DBs here
+{
+    "connections":{
+    	"wlandba": {
+                "type"    : "mysql",
+                "host"    : "10.45.85.204",
+                "port"    : "8066",
+                "username": "zdaas",
+                "password": "zdaas_123",
+                "database": "wlandba",
+                "encoding": "utf-8"
+         }
+    }
+	"default": "wlandba"
+}

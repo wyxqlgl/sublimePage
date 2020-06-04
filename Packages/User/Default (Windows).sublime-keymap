@@ -1,0 +1,7 @@
+[
+		{ "keys": ["alt+c"], "command": "select_lines", "args": {"forward": true} },
+		{ "keys": ["ctrl+e"], "command": "sql_beautifier" },
+		{ "keys": ["ctrl+alt+l"], "command": "alignment" },
+        { "keys": ["ctrl+shift+x"], "command": "upper_case" },
+        { "keys": ["ctrl+shift+c"], "command": "lower_case" }
+]

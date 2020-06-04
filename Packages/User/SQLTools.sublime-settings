@@ -1,0 +1,16 @@
+// Settings in here override those in "SQLTools/SQLTools.sublime-settings"
+{
+    "connections": {
+        "wlandba": {
+            "type"    : "mysql",
+            "host"    : "10.45.85.204",
+            "port"    : "8066",
+            "username": "zdaas",
+            "password": "zdaas_123",
+            "database": "wlandba",
+            "encoding": "utf-8"
+        }
+
+    },
+    "default": "wlandba"
+}

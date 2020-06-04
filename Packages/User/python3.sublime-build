@@ -1,0 +1,6 @@
+{
+"cmd": ["D:\\sofeware\\Python\\Python38\\python.exe","-u","$file"],
+"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+"selector": "source.python",
+"env": { "PYTHONIOENCODING": "utf8" },
+}

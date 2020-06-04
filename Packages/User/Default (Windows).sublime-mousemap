@@ -1,0 +1,33 @@
+[
+	{
+	// "color_scope_name": "comment",
+	"color_scope_name": "wordhighlight",
+	"case_sensitive": true,
+	"draw_outlined": true, // true表示外边框高亮, false表示填充式高亮
+	"mark_occurrences_on_gutter" : false,
+	// valid types: dot, circle, bookmark and cross
+	"icon_type_on_gutter" : "dot",
+	"highlight_delay": 0,
+	"highlight_when_selection_is_empty": false,
+	"highlight_word_under_cursor_when_selection_is_empty": false,
+	"file_size_limit": 4194304,
+	"when_file_size_limit_search_this_num_of_characters": 20000
+
+},
+
+	{
+	"button": "button2",
+	"count": 1,
+	"modifiers": ["ctrl"],
+	"command": "jump_back"
+	},
+
+	{
+	"button": "button1",
+	"count": 1,
+	"modifiers": ["ctrl"],
+	"press_command": "drag_select",
+	"command": "goto_definition"
+	}
+]
+
